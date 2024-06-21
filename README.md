@@ -1,1 +1,1 @@
-# spt
+# speed typing test using python
